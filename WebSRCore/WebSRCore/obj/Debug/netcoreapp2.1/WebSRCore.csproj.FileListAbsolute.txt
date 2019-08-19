@@ -1,0 +1,6 @@
+C:\Users\user\Downloads\SignalRMoveCar\WebSRCore\WebSRCore\obj\Debug\netcoreapp2.1\WebSRCore.csprojAssemblyReference.cache
+C:\Users\user\Downloads\SignalRMoveCar\WebSRCore\WebSRCore\obj\Debug\netcoreapp2.1\WebSRCore.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\SignalRMoveCar\WebSRCore\WebSRCore\obj\Debug\netcoreapp2.1\WebSRCore.RazorAssemblyInfo.cache
+C:\Users\user\Downloads\SignalRMoveCar\WebSRCore\WebSRCore\obj\Debug\netcoreapp2.1\WebSRCore.RazorAssemblyInfo.cs
+C:\Users\user\Downloads\SignalRMoveCar\WebSRCore\WebSRCore\obj\Debug\netcoreapp2.1\WebSRCore.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\SignalRMoveCar\WebSRCore\WebSRCore\obj\Debug\netcoreapp2.1\WebSRCore.AssemblyInfo.cs
