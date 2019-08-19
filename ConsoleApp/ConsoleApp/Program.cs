@@ -10,8 +10,8 @@ namespace ConsoleApp{
         static void Main(string[] args){
 
             //載入檔案
-            //string text = File.ReadAllText(@"C:\Users\user\Desktop\企業專題\畫面_核心_模擬車子資料\SignalRMoveCar\car.json");
-            string text = cardata.json;
+            string text = File.ReadAllText(@"C:\Users\user\Desktop\企業專題\畫面_核心_模擬車子資料\SignalRMoveCar\car.json");
+            // car.json 存放模擬車子資料  因為沒有真的車子在外移動，因此拿歷史資料模擬
 
             RootObject item = JsonConvert.DeserializeObject<RootObject>(text);
             Console.Write(item.locations.Count.ToString());
